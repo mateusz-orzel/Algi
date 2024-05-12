@@ -1,5 +1,3 @@
-# Algi
-
 # Linki do Latex' a:
 
 1. [Algorytmy kalendarza](https://www.overleaf.com/project/6641311bc3d22b1a2a37fd9e)
