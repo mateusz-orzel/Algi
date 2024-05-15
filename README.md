@@ -5,5 +5,5 @@
 3. [Tekst](https://www.overleaf.com/project/6641387f3f12cdfa46e659ae)
 4. [Algorytmy klasteryzacji danych](https://www.overleaf.com/project/66413caecde8238ba436c4bc)
 5. [Algorytmy modeli głosowania](https://www.overleaf.com/project/66413da290df22beb1a318ae)
-6. aaaaaa
+6. [Algorytmy heurystyczne](https://www.overleaf.com/project/66445261ad1a87217c961cbb)
    
